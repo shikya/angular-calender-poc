@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-mwl-demo-component',
+  selector: 'mwl-demo-component',
   templateUrl: './mwl-demo-component.component.html',
   styleUrls: ['./mwl-demo-component.component.css']
 })
